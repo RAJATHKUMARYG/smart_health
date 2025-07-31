@@ -1,0 +1,5 @@
+Timestamp,Name,Age,Gender,Phone,Symptoms,Predicted Disease
+2025-07-31 14:44:00,rajath,24,Male,,"Shortness of breath, Runny nose, Headache, Sore throat",Cold
+2025-07-31 15:15:19,rajath,22,Male,,"Cough, Headache, Runny nose",Bronchitis
+2025-07-31 15:35:21,,1,Male,,"Runny nose, Headache, Fever",Flu
+2025-07-31 15:35:25,,1,Male,,"Runny nose, Headache, Fever",Flu
